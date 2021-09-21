@@ -1,0 +1,1 @@
+console.log("Day 2 of your coding journey! You're on your way!")
